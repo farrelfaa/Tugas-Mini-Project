@@ -1,0 +1,19 @@
+{
+    "namaToko": "Toko Buku tahilalat",
+    "pengarang": "farrel",
+    "alamat": "Jl. sukabirus",
+    "buku": [
+        {
+            "judul": "capek bgt ya allah",
+            "tahunTerbit": 2012
+        },
+        {
+            "judul": "pengen liburann",
+            "tahunTerbit": 2024
+        },
+        {
+            "judul": "ingin makan",
+            "tahunTerbit": 2023
+        }
+    ]
+}
